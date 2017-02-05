@@ -1,6 +1,6 @@
-﻿module FSharp.ProjectScaffold.Tests
+module Whisperer.Tests
 
-open FSharp.ProjectTemplate
+open Whisperer
 open NUnit.Framework
 
 [<Test>]

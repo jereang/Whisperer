@@ -1,0 +1,25 @@
+type project
+title
+    Whisperer
+owners
+    Wang
+authors 
+    Wang
+projectUrl
+    https://github.com/jereang/Whisperer
+iconUrl
+    https://raw.githubusercontent.com/jereang/Whisperer/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/jereang/Whisperer/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    baidu 百度 t tieba 贴吧 私信
+summary
+    百度私信机器人
+description
+    Description not set
+
+

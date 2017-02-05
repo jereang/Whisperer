@@ -1,4 +1,4 @@
-﻿namespace FSharp.ProjectTemplate
+namespace Whisperer
 
 /// Documentation for my library
 ///
